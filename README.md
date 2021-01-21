@@ -1,7 +1,11 @@
 # DIAMOND BULLET
 A 2D Pixel action side-scroller. 
 \
-![Main Menu Panel](main_menu_panel.png?raw=true)  
+![Main Menu Panel Preview](main_menu_panel_preview.png?raw=true)  
+\
+![Story Panel Preview](story_panel_preview.png?raw=true)
+\
+![Store Panel Preview](store_panel_preview.png?raw=true)
 \
 ![Stage Preview](stage_preview.png?raw=true)
 
