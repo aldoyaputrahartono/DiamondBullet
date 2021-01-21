@@ -25,5 +25,6 @@ In order to quit, he must complete an impossible mission, to eliminate all crimi
 You can use the continue button and go to the stages by entering stage codes.
 
 ## Multiple Ending
-Your choice will help shape the ending of this game.
+Your choice will shape the ending of this game.
+
 
